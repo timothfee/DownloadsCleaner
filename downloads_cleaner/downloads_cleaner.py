@@ -23,3 +23,6 @@ for folder_name, folder_items in file_mappings.items():
         destination = os.path.join(folder_path, folder_item)
         print(f'Moving {source} to {destination}')
         os.rename(source, destination)
+
+
+##test
