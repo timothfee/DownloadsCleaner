@@ -24,5 +24,3 @@ for folder_name, folder_items in file_mappings.items():
         print(f'Moving {source} to {destination}')
         os.rename(source, destination)
 
-
-##test
