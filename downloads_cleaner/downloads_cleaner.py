@@ -1,6 +1,5 @@
 import os
 import collections
-from pprint import pprint
 
 DOWNLOADS_PATH = os.path.join(
     os.path.expanduser('~'),
